@@ -1,0 +1,52 @@
+<style>
+    .balao{
+        background-color: #fff;
+        border: 2px solid #000;
+        border-radius: 10px;
+        width: 80%;
+        float: left;
+        padding: 10px 25px;
+        color: #000;
+        font-size: 20px;
+        margin: 0 10%;
+        position: relative;
+    }
+    .balao:after{
+        /*----seta do balão-----*/
+        content: "";
+        width: 0;
+        height: 0;
+        position: absolute;
+        border-left: 20px solid transparent;
+        border-right: 20px solid transparent;
+        border-top: 20px solid #000;
+        /*---definir posição da seta---*/
+        bottom: -20px;
+        left: 10%;
+    }
+    video{
+        width: 50%;
+        float: right;
+        margin-top: 3%;
+        margin-right: 8%;
+    
+       
+    }
+</style>
+
+<h1>Proporção Áurea</h1>
+<div class="row">
+    <div class="balao">
+        <p>Proporção Áurea, Número de Ouro, Divina proporção, Razão áurea, Golden Ratio… Esses são os nomes dados a proporção entre dois segmentos ou duas medidas, que resulta em  1,618.A proporção áurea é bastante utilizada em design, arquitetura, fotografia, publicidade, escultura, pintura, música entre outras artes e técnicas.</p>
+        <p>A constante de proporcionalidade áurea é representada pela letra φ (fi). φ = 1,618033987...</p>
+        <p>O pintor renascentista Leonardo Da Vinci representou as proporções anatômicas ideais em sua obra “Homem Vitruviano” aplicando o número áureo.</p>
+    </div>
+    <div class="column">
+        <img src="img/Carol/falando.png" style="height: 450px; float: left; margin-left: 8%; margin-top: 3%">
+    </div>
+</div>
+<div class="row">
+    <div class="column">
+        <video src="video/patodonald.mp4" controls="" autoplay=""></video>
+    </div>
+</div>
