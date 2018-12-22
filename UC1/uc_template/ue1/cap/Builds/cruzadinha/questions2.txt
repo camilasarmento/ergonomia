@@ -1,0 +1,159 @@
+﻿O termo Ergonomia vem sendo utilizado com muita frequência nos dias atuais. Ela está envolvida com os problemas de  adaptação do trabalho. Sobre o conceito de ERGONOMIA, responda:;
+É a relação entre o homem e o trabalho que executa;
+É a relação do homem e o lazer;
+É uma doença crônica;
+A Ergonomia não é utilizada no trabalho;
+A Ergonomia só pode ser utilizada no posto de trabalho;
+É a relação do homem e o lazer;
+|
+De acordo como o Ministério do Trabalho, para a Ergonomia é determinada uma norma regulamentadora na qual estabelece parâmetros que permitam a adaptação das condições de  trabalho. Nesse contexto que norma regulamentadora é essa?;
+NR 16;
+NR 21;
+NR 17;
+NR 19;
+NR 22;
+NR 17;
+|
+Para a Quarta Revolução Industrial o trabalho manual é extremamente importante e que precisa evoluir junto com o maquinário, por isso considera a Ergonomia como fator primordial para garantia da saúde e produtividade. Desta forma indique a alternativa que melhor favorece  a Indústria 4.0.;
+A população atualmente está menos conectada com a informação virtual, segundo a Indústria 4.0;
+Para a Quarta Revolução Industrial a ergonomia não mostra ganhos na produtividade;
+A Indústria 4.0 favorece ao design ergonômico da bancada de trabalho bem como a criação de inúmeras ferramentas estratégicas para colaborar com a Ergonomia do ser humano.;
+De acordo com a Quarta indústria a produção manual não tem importância, apenas o maquinário.;
+Segundo a Indústria 4.0 os dispositivos móveis baixa cada vez mais o seu uso nas indústria.;
+A Indústria 4.0 favorece ao design ergonômico da bancada de trabalho bem como a criação de inúmeras ferramentas estratégicas para colaborar com a Ergonomia do ser humano.;
+|
+Evidenciados através de ruídos, vibrações, iluminação, clima e agentes químicos. O conceito descrito aqui, diz respeito a qual fator ergonômico?;
+Informação;
+Fatores ocupacionais;
+Postura e movimentos corporais;
+Fatores ambientais;
+Posto de trabalho;
+Fatores ambientais;
+|
+Entre as alternativas abaixo qual delas é um objetivo da ergonomia?;
+Propiciar um trabalho desconfortável;
+Aumentar os riscos ocupacionais;
+Vivenciar tarefas exaustivas;
+Promover reuniões internas;
+Aumentar a satisfação e motivação do trabalhador;
+Aumentar a satisfação e motivação do trabalhador;
+|
+Quais dos exemplos abaixo é definido como posto de trabalho?;
+Celular;
+Bolsa;
+Mesa de trabalho;
+Relógio;
+Garrafa;
+Mesa de trabalho;
+|
+Quando a postura do trabalhador não é adequada pode provocar inúmeros problemas. Marque as doenças que são causadas pela má postura no posto de trabalho.;
+Desmaio / Falta de ar;
+Gripe / Sinusite;
+Anemia / Alergia;
+LER / Lesões nas costas;
+Tontura / labirintite;
+LER / Lesões nas costas;
+|
+Identifique uma das causas que ocasionam problemas causados pela postura desconfortável ou inadequada na atividade ocupacional?;
+Movimentos de alongamento forçados;
+Boa iluminação;
+Posição sentada corretamente;
+Postura das costas ereta;
+Cadeira e mesa de trabalho arquitetados no mesmo plano do cotovelo;
+Movimentos de alongamento forçados;
+|
+Alguns ajustes nos postos de trabalho são primordiais para a posição confortável na dimensão do corpo. Sendo assim, qual dos ajustes abaixo faz relação ao princípio ergonômico  ALCANCE DO BRAÇO?;
+Evitar alocar objetos que sejam utilizados com frequência acima da altura do ombro;
+Preveja espaço suficiente no posto de trabalho para o trabalhador mais alto ou mais volumoso;
+As pegas devem ajustar-se às mãos. Mãos pequenas exigem pegas pequenas e mãos grandes exigem pegas maiores;
+Ajustar a altura da cadeira de acordo com o comprimento da perna e a altura da superfície de trabalho;
+Preveja espaço suficiente no posto de trabalho para o trabalhador mais alto ou mais volumoso;
+Preveja espaço suficiente no posto de trabalho para o trabalhador mais alto ou mais volumoso;
+|
+O trabalho sentado, quando este se prolonga por muito tempo, acaba trazendo incômodos para o trabalhador e desta forma acaba adquirindo dores principalmente nas costas. Sabendo disso qual princípio ergonômico deve ser seguido para a execução do trabalho sentado?;
+O ideal é que ocorra uma diversidade de movimentos posturais nas tarefas executadas, de modo que o trabalhador não seja obrigado a ficar apenas sentado;
+A boa ou a má concepção da ferramenta pode evitar lesões e hábitos maléficos;
+No transporte dos objetos reduza o número de objetos de cada vez;
+Os trabalhos executados manualmente, precisam ser realizados de forma em que os trabalhadores não se esforcem demais;
+A maneira como uma tarefa é realizada, vai determinar se esta é repetitiva ou variada;
+O ideal é que ocorra uma diversidade de movimentos posturais nas tarefas executadas, de modo que o trabalhador não seja obrigado a ficar apenas sentado;
+|
+Em se tratando das ferramentas, quais das dicas abaixo, demonstram uma boa concepção da ferramenta?;
+A ferramenta utilizada deve ter um peso elevado;
+Escolha ferramentas que possa ser utilizada com as duas mãos, como:  tesouras, pinças ou alicates. Estes não podem ultrapassar a mão;
+O pulso deve ser curvado no momento da utilização da ferramenta;
+Ao utilizar a ferramenta a deixe em qualquer lugar;
+Os cotovelos devem ficar distantes do corpo, para sustentar melhor a ferramenta;
+Escolha ferramentas que possa ser utilizada com as duas mãos, como:  tesouras, pinças ou alicates. Estes não podem ultrapassar a mão;
+|
+Qual o fator relevante para realização adequada do trabalho físico pesado?;
+Concentre a carga para as partes mais fracas do corpo;
+Não descanse em nenhum momento quando o trabalho é físico pesado;
+Coloque o peso no transporte o máximo que puder;
+O peso da carga deve ser superior ao peso do trabalhador;
+Quando a carga é extra, o ideal é colocar mais pessoas para levantar cargas pesadas;
+Quando a carga é extra, o ideal é colocar mais pessoas para levantar cargas pesadas;
+|
+Como dica para diminuir a torção do corpo, ou seja, evitar que a coluna tenha grandes movimentos bruscos, marque a alternativa que melhor vai preservar essa área do corpo na execução de trabalho pesado físico.
+Suspender a carga apoiando a força na coluna;
+Realizar movimentos sem se importar com sua coluna;
+Preservar sempre todas as cargas atrás do corpo;
+Preservar espaço suficiente para que todo o corpo tenha mobilidade, evitando giros na coluna;
+Girar sempre sem preservar a coluna;
+Preservar espaço suficiente para que todo o corpo tenha mobilidade, evitando giros na coluna;
+|
+O que vai determinar se a tarefa é repetitiva ou variada é:;
+Ferramenta;
+Concepção da tarefa;
+Trabalho físico pesado;
+O sentar;
+Posto de trabalho em pé;
+Concepção da tarefa;
+|
+Marque a alternativa que mais se encaixa a aplicação da Ergonomia;
+O sentar corretamente pode contribuir de forma positiva para evitar doenças ocupacionais, e o monitor do computador para a ergonomia não tem padrão correto;
+As pernas alinhadas e braços posicionados corretamente evitam lesões, fadiga e dores a curto e a longo prazo, inclusive doenças como LER  e DORT, que são causadas por má postura;
+A Ergonomia só pode ser aplicada no local de trabalho de forma alguma poderá ser utilizada na rotina diária;
+A aplicação da Ergonomia atualmente não é aplicada nas indústrias;
+A boa postura e saúde do trabalhador não engloba princípios ergonômicos;
+As pernas alinhadas e braços posicionados corretamente evitam lesões, fadiga e dores a curto e a longo prazo, inclusive doenças como LER  e DORT, que são causadas por má postura;
+|
+São vários os benefícios para o trabalhador de uma tarefa bem concedida. Observe as alternativas abaixo e indique um desses benefícios trazidos pela Ergonomia.;
+Esgotamento mental;
+Insatisfação para o trabalhador;
+Atividades sem variação;
+Cronogramas de trabalho/descanso adequados, que concedam ao trabalhador tempo suficiente para finalizar as tarefas e descansar;
+Atividades estáticas;
+Cronogramas de trabalho/descanso adequados, que concedam ao trabalhador tempo suficiente para finalizar as tarefas e descansar;
+|
+De acordo com o princípio da Ergonomia, como apanhar e conduzir objetos pesados?;
+Curve o corpo e centrar a força na coluna;
+Dobre os joelhos, abaixe-se lentamente mantendo o tronco ereto e apanhe o objeto;
+Após apanhar o objeto levante-se rapidamente curvando o corpo;
+Torça a coluna e curve o corpo;
+Se o objeto for muito pesado, realize bastante força na coluna;
+Dobre os joelhos, abaixe-se lentamente mantendo o tronco ereto e apanhe o objeto;
+|
+Quando a atividade necessitar de vários levantamentos, qual a melhor opção para diminuir esse movimento:;
+Fazer uso de auxiliares mecânicos;
+Levantar seja lá quantas vezes for necessário;
+Nunca chame outras pessoas para ajudar na execução;
+Não reorganizar a área de armazenamento;
+Não fazer uso de auxiliares mecânicos;
+Fazer uso de auxiliares mecânicos;
+|
+Observe os itens a seguir e identifique aquele que pode ser um apoio de rotatividade de posição confortável, para o trabalhador que passa a maior parte do tempo em pé:;
+Ferramenta;
+Computador;
+Cadeira;
+Máquina;
+Mesa;
+Cadeira;
+|
+Quanto a técnica de armazenamento com o propósito de facilitar o manuseio dos materiais é correto afirmar:;
+As prateleiras ou paletes devem estar fora do alcance do trabalhador.;
+Conduzir os paletes, de modo a que a carga pesada fique perto das bordas da palete e não no centro.  Este mecanismo irá ajudar a distribuir o peso na palete de forma equilibrada;
+Não fazer uso de meios mecânicos para elevar a carga;
+Nunca modificar o tamanho e a forma da carga, evitando que o centro de gravidade fique mais aproximado da pessoa que a sustenta;
+Levar sempre os materiais independente do peso;
+Conduzir os paletes, de modo a que a carga pesada fique perto das bordas da palete e não no centro.  Este mecanismo irá ajudar a distribuir o peso na palete de forma equilibrada;

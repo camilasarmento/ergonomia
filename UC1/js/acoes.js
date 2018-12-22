@@ -2,11 +2,11 @@ var idAtual, limite, visitados, largura=0, altura=0, unityObj, isFullScreen=0;
 var tamTituloH1=18, tamTituloH2=15, tamFonte=13, tamLegenda=9;
 var masteryScore, overlayDlg=null;
 var ludos_pasta, ludos_tipo_scorm=2; // 0=sem scorm; 1=lê do BD e salva no scorm; 2=lê e salva no scorm
-var skinCss, skinVet={'bgMain':'#b76511','txtMain':'#fff',
- 'bgRealce':'#C3711D','txtRealce':'#fff',
- 'bgAtivo':'#964d02','txtAtivo':'#fff',
- 'bgMenuOff':'#C3711D','txtMenuOff':'#fff',
- 'bgMenuOn':'#964d02','txtMenuOn':'#fff','bgMenuMarcadorVisitado':'#f8c301',
+var skinCss, skinVet={'bgMain':'#58803e','txtMain':'#fff',
+ 'bgRealce':'#94b634','txtRealce':'#fff',
+ 'bgAtivo':'#6a984a','txtAtivo':'#fff',
+ 'bgMenuOff':'#94b634','txtMenuOff':'#fff',
+ 'bgMenuOn':'#6a984a','txtMenuOn':'#fff','bgMenuMarcadorVisitado':'#58803e',
  'bgDestaque':'#feebb2','txtDestaque':'#000','titDestaque':'#724336'};
 
 function set_page_skin() {

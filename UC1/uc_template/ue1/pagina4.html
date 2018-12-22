@@ -1,13 +1,51 @@
 <style>
-    iframe{
-        width: 100%;
-        height: 561px;
-        border: 0;
+    .balao{
+        background-color: #fff;
+        border: 2px solid #000;
+        border-radius: 10px;
+        width: 30%;
+        float: right;
+        padding: 10px 25px;
+        color: #000;
+        font-size: 20px;
+        right: 10%;
+        top: 5%;
+        position: absolute;
+    }
+    .balao:after{
+        /*----seta do balão-----*/
+        content: "";
+        width: 0;
+        height: 0;
+        position: absolute;
+        border-left: 20px solid transparent;
+        border-right: 20px solid transparent;
+        border-top: 20px solid #000;
+        /*---definir posição da seta---*/
+        bottom: -20px;
+        right: 10%;
     }
 </style>
 
-
-
-<iframe src="cap/Slide3Carol/index.html">
+<h1>Introdução</h1>
+<div class="row">
+    <div class="column" style="width: 40%">
+        <p>O termo ergonomia é uma palavra muito utilizada no nosso ambiente de trabalho nos dias atuais, mas para muitas pessoas ainda parece ser algo distante da sua realidade. O que não é verdade!!</p>
+        <br><p>A ergonomia está presente no nosso dia a dia e em todos os postos de trabalho.</p>
+        <br><p>Analise as imagens abaixo:</p>
+    </div>
+    <div class="column">
+        <div class="balao"><p>Vamos lá começar de vez nossa aventura rumo ao conhecimento?</p>
+        </div>
+        <img src="img/personagem01.png" style="float: right; margin-top: -5%; margin-right: 5%; width:8%">
+    </div>
     
-</iframe>
+    <img src="img/figura1_postura1.png" style="width: 45%; margin: 2% 2%">
+    
+    <div class="column" style="width: 50%">
+         <p>Então, A ergonomia está envolvida com os problemas da adaptação do trabalho ao homem. É a forma de harmonizar as características da anatomia humana, antropométrica, fisiológica e biomecânica em sua relação à atividade física.</p>
+    </div>
+    
+    <img href="">
+    
+</div>
